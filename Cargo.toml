@@ -1,0 +1,8 @@
+[package]
+name = "pi_youtube_radio"
+version = "0.0.0"
+publish = false
+
+[dependencies]
+rocket = "0.4.5"
+whoami = "0.7.0"
